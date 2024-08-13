@@ -1,0 +1,22 @@
+my-web-project/  
+│  
+├── index.html                 # Archivo HTML principal  
+├── about.html                 # Otra página HTML  
+│  
+├── css/                       # Carpeta para archivos CSS  
+│   └── styles.css             # Archivo de estilos principal  
+│  
+├── js/                        # Carpeta para archivos JavaScript  
+│   └── script.js              # Archivo JavaScript principal  
+│  
+├── img/                       # Carpeta para imágenes  
+│   ├── logo.png               # Ejemplo de imagen  
+│   └── background.jpg         # Otra imagen  
+│  
+├── fonts/                     # Carpeta para fuentes  
+│   └── custom-font.ttf        # Ejemplo de fuente  
+│  
+├── assets/                    # Carpeta para otros activos  
+│   └── videos/                # Subcarpeta para videos  
+│  
+└── README.md                  # Documentación del proyecto
